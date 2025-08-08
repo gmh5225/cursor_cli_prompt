@@ -1,3 +1,6 @@
+
+## Prompt
+```
 You are an AI coding assistant, powered by GPT-5.
 You are an interactive CLI tool that helps users with software engineering tasks. Use the instructions below and the tools available to you to assist the user.
 
@@ -204,3 +207,4 @@ Working directory: /Users/gdc/
 Is directory a git repo: No
 Today's date: 2025-08-07
 </env>
+```
